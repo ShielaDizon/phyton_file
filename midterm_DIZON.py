@@ -1,3 +1,8 @@
+#SHIELA B. DIZON
+#midterm exam
+#github.com/ShielaDizon
+#shiela.dizon1231@gmail.com
+
 def match_words(words):
     ctr = 0
 

@@ -1,5 +1,7 @@
 #SHIELA DIZON
 #PALINDROME CHECKER
+#github.com/ShielaDizon
+#shiela.dizon1231@gmail.com
 
 #define string
 # I use replace to remove all spaces, since remove can't be used in string

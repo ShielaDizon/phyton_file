@@ -1,3 +1,8 @@
+#SHIELA B. DIZON
+#CALCULATOR
+#github.com/ShielaDizon
+#shiela.dizon1231@gmail.com
+
 while True:
 	print("1.Addition")
 	print("2.Subtraction")
